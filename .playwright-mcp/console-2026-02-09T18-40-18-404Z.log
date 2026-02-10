@@ -1,0 +1,1 @@
+[     901ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://jobseeker-api.hirist.com/v2/jobfeed/-1/v3/search?pageNo=0&query=&loc=&minexp=0&maxexp=0&range=0&boost=1:0

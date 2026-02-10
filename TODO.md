@@ -175,12 +175,13 @@
 
 | Platform | Target | Applied | Responses | Interviews |
 |----------|--------|---------|-----------|------------|
-| Wellfound | 50 | 18 | 0 | 0 |
-| Cutshort | 50 | 8 | 0 | 0 |
-| Hirist | 50 | 3 | 0 | 0 |
+| Wellfound | 50 | 9 | 0 | 0 |
+| Cutshort | 50 | 9 | 0 | 0 |
+| Hirist | 50 | 6 | 0 | 0 |
+| Foundit | 50 | 7 | 0 | 0 |
 | Instahyre | 50 | 0 | 0 | 0 |
 | LinkedIn | 50 | 0 | 0 | 0 |
-| **TOTAL** | **250** | **21** | **0** | **0** |
+| **TOTAL** | **300** | **31** | **0** | **0** |
 
 ---
 

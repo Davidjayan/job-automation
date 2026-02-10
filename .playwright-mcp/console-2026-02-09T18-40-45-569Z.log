@@ -1,0 +1,24 @@
+[     434ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.hirist.tech/jobfeed?minexp=2&maxexp=3:14
+[     718ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.hirist.tech/production/3.0.9/manifest.json:0
+[     718ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.hirist.tech/production/3.0.9/manifest.json:0
+[    1270ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api-chat.hirist.tech/v1/permission?userId=:0
+[    1317ms] Uncaught (in promise) Error: Request failed with status code 403
+    at e.exports (https://recruiter-hirist-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/v2/sticky-chat/bundle.min.js?query=v10:0:321056)
+    at e.exports (https://recruiter-hirist-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/v2/sticky-chat/bundle.min.js?query=v10:0:541516)
+    at h.onreadystatechange (https://recruiter-hirist-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/v2/sticky-chat/bundle.min.js?query=v10:0:320074)
+[   14313ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://logs.hirist.tech/uba:0
+[   14435ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://logs.hirist.tech/uba:0
+[  121265ms] [ERROR] Access to XMLHttpRequest at 'https://api-chat.hirist.tech/v1/subscribe' from origin 'https://www.hirist.tech' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.hirist.tech/jobfeed?minexp=2&maxexp=3:0
+[  121267ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api-chat.hirist.tech/v1/subscribe:0
+[  139319ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.hirist.tech/search/senior-full-stack-jobs?loc=&minexp=2&maxexp=3&posting=&category=&searchType=&method=:14
+[  139887ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.hirist.tech/production/3.0.9/manifest.json:0
+[  139887ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.hirist.tech/production/3.0.9/manifest.json:0
+[  140047ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api-chat.hirist.tech/v1/permission?userId=:0
+[  140061ms] Uncaught (in promise) Error: Request failed with status code 403
+    at e.exports (https://recruiter-hirist-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/v2/sticky-chat/bundle.min.js?query=v10:0:321056)
+    at e.exports (https://recruiter-hirist-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/v2/sticky-chat/bundle.min.js?query=v10:0:541516)
+    at h.onreadystatechange (https://recruiter-hirist-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/v2/sticky-chat/bundle.min.js?query=v10:0:320074)
+[  260130ms] [ERROR] Access to XMLHttpRequest at 'https://api-chat.hirist.tech/v1/subscribe' from origin 'https://www.hirist.tech' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.hirist.tech/search/senior-full-stack-jobs?loc=Remote&minexp=2&maxexp=3&posting=&category=&searchType=&method=&query=senior-full-stack-jobs&sort=&page=0&industry=:0
+[  260133ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api-chat.hirist.tech/v1/subscribe:0
+[  380197ms] [ERROR] Access to XMLHttpRequest at 'https://api-chat.hirist.tech/v1/subscribe' from origin 'https://www.hirist.tech' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.hirist.tech/search/senior-full-stack-jobs?loc=Remote&minexp=2&maxexp=3&posting=&category=&searchType=&method=&query=senior-full-stack-jobs&sort=&page=0&industry=:0
+[  380197ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api-chat.hirist.tech/v1/subscribe:0

@@ -1,0 +1,3 @@
+[     327ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.hirist.tech/:14
+[    1429ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.hirist.tech/production/3.0.9/manifest.json:0
+[    1429ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.hirist.tech/production/3.0.9/manifest.json:0

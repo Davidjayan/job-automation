@@ -874,4 +874,42 @@ GitHub: https://github.com/Davidjayan
 
 ---
 
+## 📅 Sent Applications Log (February 2026)
+
+| # | Date | Platform | Company | Role | Hook/Personalization | Status |
+|---|---|---|---|---|---|---|
+| 1 | 09-Feb-2026 | Wellfound | **mine.** | Senior Full Stack Engineer | Codebase takeover & microservices migration | SENT |
+| 2 | 09-Feb-2026 | Wellfound | **Circle** | Senior Full Stack Engineer | Site-builder UI & scalable SaaS | SENT |
+| 3 | 09-Feb-2026 | Wellfound | **Lithic** | Senior Full Stack Engineer | RBAC/Security & fintech infrastructure | SENT |
+| 4 | 09-Feb-2026 | Wellfound | **Tutorbase** | Senior Full Stack Engineer | Edtech scaling & React/Node expertise | SENT |
+| 5 | 09-Feb-2026 | Wellfound | **Conigma** | Senior Full Stack Engineer | MCP/AI Workflow & AI-native engineering | SENT |
+| 6 | 09-Feb-2026 | Wellfound | **28 Wellness** | Senior Full Stack Engineer | React Native/Expo & mobile product builds | SENT |
+| 7 | 09-Feb-2026 | Wellfound | **Caimera** | Senior Full Stack Engineer | AI image orchestration & prompt logic | SENT |
+| 8 | 09-Feb-2026 | Wellfound | **Sprinto** | Senior Full Stack Engineer | Compliance/Terraform & AWS infrastructure | SENT |
+| 9 | 09-Feb-2026 | Wellfound | **HelloTrace** | Senior Full Stack Engineer | Data logic & metric trees/analytics | SENT |
+| 10 | 09-Feb-2026 | Foundit | **Uplers** | Senior Full Stack Engineer | Remote MERN stack & scalable APIs | SENT |
+| 11 | 09-Feb-2026 | Foundit | **Soliton Technologies** | Senior Project Engineer | Full Stack leadership & product ownership | SENT |
+| 12 | 09-Feb-2026 | Foundit | **Flent** | AI Engineer (Full Stack) | AI-native workflow (Cursor/Claude) & 10x output | SENT |
+| 13 | 09-Feb-2026 | Foundit | **Maker Lab** | AI Engineer (Full Stack) | LLM API integrations (Gemini/OpenAI) | SENT |
+| 14 | 09-Feb-2026 | Foundit | **Thinkgrid Labs** | Senior Full Stack Engineer | CTO Office / Special Projects & high-autonomy | SENT |
+| 15 | 09-Feb-2026 | Foundit | **Evnek** | Senior Full Stack Developer | Node.js/MySQL & scalable product development | SENT |
+| 16 | 09-Feb-2026 | Foundit | **CRUX Consulting** | Senior Full Stack Developer | NestJS/Node.js microservices | SENT |
+| 17 | 09-Feb-2026 | Cutshort | **MyOperator** | Software Developer – Python | Business AI Operator & LangChain/LLMs | SENT |
+| 18 | 09-Feb-2026 | Cutshort | **Peak Hire Solutions** | Software Developer (Python/React) | AI Agentic manufacturing OS | SENT |
+| 19 | 09-Feb-2026 | Cutshort | **Pipaltree AI** | Senior AI Engineer | Large-scale conversation data & distributed systems | SENT |
+| 20 | 09-Feb-2026 | Cutshort | **CompileCrew** | Fullstack Engineer | AI-first studio & high-velocity engineering | SENT |
+| 21 | 09-Feb-2026 | Cutshort | **Avoma** | Senior Frontend Engineer | Intelligent meeting assistant & collaborative web app | SENT |
+| 22 | 09-Feb-2026 | Cutshort | **BigThinkCode** | Software Engineer (Python) | Chennai-based & FastAPI/Django/Flask | SENT |
+| 23 | 09-Feb-2026 | Cutshort | **GT Ecom BV** | Full Stack Developer | Remote-first culture & shipping features in days | SENT |
+| 24 | 09-Feb-2026 | Cutshort | **LogIQ Labs** | Python Developer | Robust backend systems & MongoDB optimization | SENT |
+| 25 | 09-Feb-2026 | Cutshort | **Intro** | Founding Full-Stack Engineer | LGBTQ South Asian mission & 0→1 ownership | SENT |
+| 26 | 10-Feb-2026 | Hirist | **SyncIQ.ai** | Full Stack Developer | Multi-agent workflow alignment & AI-native engineering | SENT |
+| 27 | 10-Feb-2026 | Hirist | **TargetHR** | Full Stack Engineer | MERN stack expertise & high-velocity feature delivery | SENT |
+| 28 | 10-Feb-2026 | Hirist | **Recruit Right** | AI Implementation Developer | Shift towards AI-native frontend engineering & agentic workflows | SENT |
+| 29 | 10-Feb-2026 | Hirist | **RightStep** | AI/Data Engineer | Growth datasets & agentic AI triggers | SENT |
+| 30 | 10-Feb-2026 | Hirist | **Hashone Careers** | AI Backend Developer | Python AI backend & microservices Latency tradeoffs | SENT |
+| 31 | 10-Feb-2026 | Hirist | **Prama Innovations** | AI Integration Engineer | 300+ API integrations using MCP alignment | SENT |
+
+---
+
 *This application package is ready for immediate execution. All messages are personalized, professional, and optimized for maximum response rates.*
