@@ -35,8 +35,8 @@ Core strengths include:
 - Tailwind CSS, Material UI
 
 ### Backend
-- Node.js (Express)
-- Python (FastAPI – working proficiency)
+- Node.js (Express) - Primary
+- Python (Basic proficiency ~4/10, suitable for FastAPI/AI scripts, not core Python roles)
 - GraphQL, REST APIs
 - Microservice-based architectures
 
@@ -113,6 +113,7 @@ Avoid:
 - Service-only companies
 - Pure maintenance roles
 - Low-ownership or ticket-based work
+- **Python Core Developer roles** (My primary strength is Node.js; I have basic Python proficiency suitable for AI integrations but not for Python-native core systems)
 
 ---
 
@@ -335,7 +336,7 @@ I come from a strong backend engineering background, primarily working with Node
 
 In projects like GenzForm and LetLMS, I work deeply with LLMs beyond simple integrations — analyzing real production prompts, comparing model outputs, and iterating toward better domain-aligned responses. When new models are released, I don’t switch blindly. I usually run controlled experiments by replaying real user prompts across multiple models, scoring and ranking responses, and selecting models based on accuracy, latency, and cost tradeoffs, not hype. This approach has helped me make practical decisions about which models belong behind which workflows.
 
-While my day-to-day backend work is primarily in Node.js, I’m comfortable using Python where it makes sense for AI workflows, experimentation, and evaluation. I care a lot about inference cost, response quality, and system reliability, because these decisions directly affect product viability at scale.
+While my day-to-day backend work is primarily in Node.js, I have basic proficiency in Python (around 4/10) which I use where it makes sense for AI workflows, experimentation, and evaluation. I am not looking for Python-native core roles, but I can navigate the language for AI-related tasks. I care a lot about inference cost, response quality, and system reliability, because these decisions directly affect product viability at scale.
 
 What excites me about this role is the expectation to own both sides — building scalable backend systems and adapting LLMs to fit a real domain. That’s exactly where I enjoy working: sitting with a vague requirement, designing the system, shipping something usable quickly, and then iterating until the intelligence actually feels right.
 
